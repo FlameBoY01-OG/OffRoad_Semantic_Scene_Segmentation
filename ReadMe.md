@@ -213,6 +213,7 @@ OffRoad_Semantic_Scene_Segmentation/
 
 ## Key Implementation Details
 
+
 - Mixed precision training reduces memory usage and accelerates computation
 - DataLoaders with 4 workers enable parallel data loading
 - Frame-by-frame processing during inference for memory efficiency
